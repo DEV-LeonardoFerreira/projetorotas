@@ -2,7 +2,7 @@
 const Sobre = () => {
   return (
     <>
-      <h1>Sobre Nós</h1>
+      <h1 className="px-10">Sobre Nós</h1>
     </>
   )
 }

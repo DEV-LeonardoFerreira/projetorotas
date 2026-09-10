@@ -3,7 +3,7 @@
 const Contato = () => {
   return (
     <>
-      <h1>Fale Conosco</h1>
+      <h1 className="px-10">Fale Conosco</h1>
     </>
   )
 }
